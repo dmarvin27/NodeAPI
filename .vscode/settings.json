@@ -1,0 +1,7 @@
+{
+    "appService.deploySubpath": "",
+    "appService.zipIgnorePattern": [
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/f6028cfd-6026-4aee-aab0-88ebf09c6f64/resourceGroups/appsvc_rg_linux_centralus/providers/Microsoft.Web/sites/brgySystem"
+}
